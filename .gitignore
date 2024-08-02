@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# OS-specific files
+.DS_Store            # macOS
+Thumbs.db             # Windows
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.tmp
+*.swp
+*.swo
